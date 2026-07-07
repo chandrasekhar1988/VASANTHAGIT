@@ -1,4 +1,4 @@
-This is my first line From Feature-A and Feature-B
+This is my first line From Rebase-A
 This is my second line Updated By Developer-B
 This is my Third line From Main branch
 Developer-A Added Fourth Line
